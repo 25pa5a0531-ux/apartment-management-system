@@ -1,0 +1,11 @@
+{
+  "name": "apartment-management",
+  "version": "1.0.0",
+  "description": "Apartment Visitor and Maintenance Management System",
+  "scripts": {
+    "server": "cd server && node app.js",
+    "seed": "cd server && node database/seed.js",
+    "client": "cd client && npm run dev",
+    "test:e2e": "cd server && node test-e2e.js"
+  }
+}

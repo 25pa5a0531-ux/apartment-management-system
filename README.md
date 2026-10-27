@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Apartment Visitor and Maintenance Management System
 
 A beginner-friendly full-stack web application designed for residential societies and apartment complexes to manage residents, visitors, maintenance billing, and service complaints.
@@ -178,3 +179,7 @@ The application includes an automated end-to-end integration test suite (`node t
 | Port 5000 or 5173 in use | A previous process was left running. | Double-click `stop.bat` to kill lingering processes, then restart with `start.bat`. |
 | `npm.ps1 cannot be loaded` | Windows PowerShell Execution Policy restricts `.ps1` scripts. | Use `start.bat` (which runs via CMD) or run commands using `npm.cmd` instead of `npm`. |
 | Node.js is not recognized | Node.js is not added to the system PATH. | Install Node.js (v18+) from [nodejs.org](https://nodejs.org/) and restart your terminal. |
+=======
+# apartment-management-system
+FSD Project
+>>>>>>> e2a96e8538bd637dd29ab01648123f7e0148aa45
